@@ -1,5 +1,5 @@
 {
-  "name": "jsmonthly-part1",
+  "name": "jsmonthly-part2",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,7 +12,8 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "semantic-release": "^17.0.7",
-    "@semantic-release/git": "^9.0.0"
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/npm": "^7.0.5",
+    "semantic-release": "^17.0.7"
   }
 }
